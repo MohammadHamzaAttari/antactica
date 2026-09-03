@@ -18,3 +18,7 @@ brand/
 *.wav
 *.m4a
 __pycache__/
+
+# explicit exceptions: deliverable video + poster are tracked
+!antarctica_froze_first_9x16.mp4
+!thumbnail_ant.jpg
