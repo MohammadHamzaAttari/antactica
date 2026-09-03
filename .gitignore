@@ -1,0 +1,24 @@
+# generated outputs
+antarctica_froze_first_9x16.mp4
+thumbnail_ant.jpg
+work/
+scenes_ant/
+scenes_e/
+scenes_sat/
+proc/
+audio/
+images/
+images_e/
+images_sat/
+images_ant/
+image-search/
+brand/
+*.mp4
+*.mp3
+*.wav
+*.m4a
+__pycache__/
+
+# explicit exceptions: deliverable video + poster are tracked
+!antarctica_froze_first_9x16.mp4
+!thumbnail_ant.jpg
